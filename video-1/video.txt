@@ -1,0 +1,4 @@
+1. Download Google Chrome
+2. Download VS Code
+3. How To Work This Course
+4. Introduction
